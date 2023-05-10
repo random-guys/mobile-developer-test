@@ -12,13 +12,13 @@ Use of an architectural pattern (**MVVM** or **MVP**) is compulsory.
 
 Room? Realm? SQLite? Do as you wish. Database code should be decoupled from view logic.
 
-# Layout Building (Android)
+# Layout Building (Android and iOS)
 
 Bonus points for using **ConstraintLayout** for all layouts.
 
 # Programming Language
 
-Bonus points for using **Kotlin** or **Swift**. Using **Java** or **Objective C** is fine too.
+Bonus points for using **Kotlin** or **Swift**. Using **Java**(Andriod) is fine too.
 
 # Tests
 
